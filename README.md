@@ -21,8 +21,4 @@ Desenvolvendo a Plataforma Preparatória AproveVest<br>Estudando sempre sobre no
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitaoDeveloper&theme=tokyo-night"/>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VitaoDeveloper&label=Profile%20Views&icon=0&pretty=true"/>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
