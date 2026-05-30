@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvendo a Plataforma Preparatória AproveVest<br>Procurando estágio como desenvolvedor<br>Estudando sempre sobre novas tecnologias, IA e linguagens<br>Posso ajudar com estrutura e arquitetura de projeto e gestão de equipe, além de conhecimentos gerais e avançados em linguagens de programação<br>
+Desenvolvendo a Plataforma Preparatória AproveVest<br>Estudando sempre sobre novas tecnologias, IA e linguagens<br>Posso ajudar com estrutura e arquitetura de projeto e gestão de equipe, além de conhecimentos gerais e avançados em linguagens de programação<br>
 
 
 ## 🌐 Socials:
