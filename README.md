@@ -12,11 +12,5 @@ Desenvolvendo a Plataforma Preparatória AproveVest<br>Estudando sempre sobre no
 ![](https://nirzak-streak-stats.vercel.app/?user=PaulaumDev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaumDev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PaulaumDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![](https://github.com/hotheadhacker/no-as-a-service)
-
----
-[![](https://visitcount.itsvg.in/api?id=PaulaumDev&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
