@@ -17,4 +17,10 @@ Desenvolvendo a Plataforma Preparatória AproveVest<br>Estudando sempre sobre no
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VitaoDeveloper&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VitaoDeveloper&theme=tokyonight"/>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
