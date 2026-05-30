@@ -19,7 +19,7 @@ Desenvolvendo a Plataforma Preparatória AproveVest<br>Estudando sempre sobre no
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitaoDeveloper&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitaoDeveloper&theme=tokyo-night"/>
 </p>
 
 
