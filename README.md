@@ -19,9 +19,9 @@ I like understanding the "why" behind a technical decision before writing the co
   <img src="https://github-readme-stats-beta-three-74.vercel.app//api/top-langs/?username=VitaoDeveloper&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VitaoDeveloper&theme=tokyonight"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitaoDeveloper&theme=tokyo-night"/>
